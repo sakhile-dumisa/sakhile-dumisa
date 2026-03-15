@@ -7,9 +7,9 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 -   🌱 I’m currently learning **Data Engineering (ALX Africa)**
 -   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
 -   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Start, Query & Router).
-<div style="text-align: center;">
+
 [![committers.top badge](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)
-</div>
+
 
 
 ### 🎓 Education
