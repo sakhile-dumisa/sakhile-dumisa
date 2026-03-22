@@ -1,15 +1,13 @@
-### 👋 Sawubona! I'm Sakhile
+### 👋 Sawubona, unjani? I'm Sakhile
 
-A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web applications with React, TypeScript, and Node.js. I am actively expanding my expertise into **Data Engineering** and **DevOps** to build scalable, end-to-end solutions.
+**Full-Stack Engineer & Data Engineering Learner** from KwaZulu-Natal, South Africa. I build with **TanStack Start** for web apps, **Hono.js** for microservices, and I'm diving into **Golang** for network-related services. My mission? Helping businesses escape the weight of legacy systems through clean, practical solutions that actually scale. I'm a pragmatist at heart, but I'll always make time for a beautiful UI.
 
--   🔭 I’m currently working on **[Trailer Base](https://trailerbase.tech)**
 -   🌐 Explore my portfolio: **[sakhiledumisa.com](https://www.sakhiledumisa.com/)**
 -   🌱 I’m currently learning **Data Engineering (ALX Africa)**
 -   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
--   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Start, Query & Router).
+-   ⚡ **Fun fact:** I hold a BIS in Information Science, and I'm a huge fan of the modern web ecosystem, especially the TanStack suite (Start, Query & Router).
   
  [![committers.top badge](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)
-
 
 
 ### 🎓 Education
