@@ -10,10 +10,6 @@
  [![committers.top badge](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)
 
 
-### 🎓 Education
-**Completed BIS Information Science** (Data Governance, Security and Logistics Management) | University of Pretoria
-
-
 ### 🛠️ Tech Stack
 
 **Languages:**  
