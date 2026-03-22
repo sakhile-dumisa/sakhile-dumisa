@@ -22,7 +22,7 @@
 
 **Backend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,hono,go) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bun,hono,go) 
 
 **Full-Stack:**  
 
