@@ -7,7 +7,6 @@
 -   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
 -   ⚡ **Fun fact:** I hold a BIS in Information Science, and I'm a huge fan of the modern web ecosystem, especially the TanStack suite (Start, Query & Router).
   
- [![committers.top badge](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)](https://user-badge.committers.top/south_africa/sakhile-dumisa.svg)
 
 
 ### 🛠️ Tech Stack
