@@ -17,11 +17,11 @@
 
 **Frontend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,react,tailwind,shadcn,figma) 
 
 **Backend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bun,hono,go) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,bun,hono,go) 
 
 **Full-Stack:**  
 
