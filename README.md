@@ -17,7 +17,7 @@
 
 **Frontend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,react,tailwind,shadcn,figma) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,react,tailwind,shadcn,figma,indesign) 
 
 **Backend:**  
 
