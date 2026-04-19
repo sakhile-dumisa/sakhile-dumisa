@@ -14,7 +14,7 @@
 
 **Backend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,bun,hono) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,bun,hono,firebase) 
 
 **Full-Stack:**  
 
