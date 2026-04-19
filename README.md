@@ -10,7 +10,7 @@
 
 **Frontend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,react,tailwind,shadcn,figma,indesign) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,shadcn,figma,indesign) 
 
 **Backend:**  
 
