@@ -6,7 +6,7 @@
 
 **Languages:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,go)
 
 **Frontend:**  
 
@@ -14,7 +14,7 @@
 
 **Backend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,bun,hono,go) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,bun,hono) 
 
 **Full-Stack:**  
 
