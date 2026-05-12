@@ -6,7 +6,7 @@
 
 **Languages:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,go)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python)
 
 **Frontend:**  
 
