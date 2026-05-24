@@ -16,9 +16,9 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,bun,hono,firebase) 
 
-**Full-Stack:**  
+**Full-Stack & Mobile Apps:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tanstack)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tanstack,expo,reactnative)
 
 
 
